@@ -24,6 +24,7 @@ This project allows you to display a surveillance camera on an Enigma2 receiver.
 ```code
 /usr/lib/enigma2/python/Plugins/Extensions/camView
 ```
+opkg install exteplayer3
 
 ## Usage
 1. Start the Enigma2 receiver and open the plugin from the main menu.
